@@ -1,0 +1,34 @@
+.questionContainer {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon {
+  background-color: #bdbdbd;
+  color: #800080;
+  font-size: 2rem;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.titleContainer h4 {
+  font-weight: 900;
+  font-size: 1.6rem;
+}
+
+.questionContainer p {
+  font-size: 1.6rem;
+  margin-top: 1rem;
+}

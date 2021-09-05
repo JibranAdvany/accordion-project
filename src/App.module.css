@@ -1,0 +1,18 @@
+.main {
+  background-color: #f5f5f5;
+  width: 100rem;
+  display: flex;
+  padding: 3rem;
+}
+
+.heading {
+  flex: 0.2;
+  font-size: 2.4rem;
+  font-weight: 900;
+  padding-right: 1rem;
+  text-transform: capitalize;
+}
+
+.questions {
+  flex: 0.8;
+}
